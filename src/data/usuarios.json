@@ -1,0 +1,24 @@
+[
+    {
+        "name": "marcos",
+        "email": "marcos@gmail.com",
+        "password": "senha123",
+        "username": "marquinhos32",
+        "id": "0"
+    },
+    {
+        "name": "matheus",
+        "email": "matheus@yahoo.com",
+        "password": "password123",
+        "username": "matheusplays",
+        "id": "1"
+    },
+    {
+        "name": "joao",
+        "email": "joao@hotmail.com",
+        "password": "palavrapasse123",
+        "username": "joaogames",
+        "id": "2"
+    }
+
+]
